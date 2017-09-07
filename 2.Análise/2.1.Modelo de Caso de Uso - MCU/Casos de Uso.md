@@ -45,7 +45,7 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 | *Ator Principal* | Aluno |
 | *Pré-Condições* | O aluno estar logado no sistema e estar matriculado na disciplina a qual deseja ver sua nota. |
 | *Pós-Condições* | O sistema deve buscar no banco de dados as notas do aluno referente a disciplina marcada, sem, contudo, fazer qualquer alteração |
-| *Fluxo* | 1 - Aluno loga no sistema com sua identificação única <br> 2 - Selecionar a disciplina deejada <br> 3 - Clicar em Visualizar Nota.|
+| *Fluxo* | 1 - Aluno loga no sistema com sua identificação única; <br> 2 - Selecionar a disciplina desejada; <br> 3 - Clicar em Visualizar Nota; <br> 4 - Notas referente a matéria são exibidas na tela.|
 
 [imgCasoDeUso]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true>
 [Requisitos]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/Tema%2001%20-%20Faculdade.docx>
