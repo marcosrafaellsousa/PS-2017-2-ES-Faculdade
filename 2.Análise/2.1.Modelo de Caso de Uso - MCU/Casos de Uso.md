@@ -21,13 +21,20 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 | **ID** | **Nome** | **Usuário** |
 |---|---|---| 
 | UC01 | Visualizar Nota | Aluno |
-| UC02 | Se inscrever em disciplina | Aluno |
-| UC03 | Lançar Notas | Professor |
-| UC04 | Atualizar Dados da turma | Professor |
-| UC05 | Abrir Turma | Coordenador |
-| UC06 | Alocar turma em sala ou laboratório em horário específico | Coordenador |
-| UC07 | Obter dados cadastrais sobre os professores | Sistema de RH |
-| UC08 | Informar as inscrições realizadas por alunos | Sistema de Faturamento |
+| UC02 | Visualizar Disciplinas Disponíveis | Aluno |
+| UC03 | Se inscrever em disciplina | Aluno |
+| UC04 | Verificar o andamento da solicitação de matrícula | Aluno |
+| UC05 | Cancelar inscrição em disciplina | Aluno |
+| UC06 | Visualizar seu histórico acadêmico | Aluno |
+| UC07 | Lançar Notas | Professor |
+| UC08 | Atualizar Dados da turma | Professor |
+| UC09 | Abrir Turma | Coordenador |
+| UC10 | Alocar turma em sala ou laboratório em horário específico | Coordenador |
+| UC11 | Cancelar matrículas de aluno se ele for reprovado mais de duas vezes na mesma disciplina | Coordenador |
+| UC12 | Obter informações de inscrições de alunos | Sistema de Faturamento |
+| UC13 | Obter dados cadastrais sobre os professores | Sistema de RH |
+| UC14 | Controlar prazos e atrasos nos lançamentos de notas | Sistema de Faculdade |
+| UC15 | Atribuir perfis diferenciados a usuários de acordo com suas permissões | Sistema de Faculdade |
 
 ### Descrição dos Casos de Uso
 | **Casos de Uso** | **Autores** |**Pré-condição** | **Descrição** | **Pós-condição** |
@@ -45,7 +52,7 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 | *Ator Principal* | Aluno |
 | *Pré-Condições* | O aluno estar logado no sistema e estar matriculado na disciplina a qual deseja ver sua nota. |
 | *Pós-Condições* | O sistema deve buscar no banco de dados as notas do aluno referente a disciplina marcada, sem, contudo, fazer qualquer alteração |
-| *Fluxo* | 1 - Aluno loga no sistema com sua identificação única; <br> 2 - Selecionar a disciplina desejada; <br> 3 - Clicar em Visualizar Nota; <br> 4 - Notas referente a matéria são exibidas na tela.|
+| *Fluxo* | 1 - Aluno loga no sistema com sua identificação única <br> 2 - Selecionar a disciplina deejada <br> 3 - Clicar em Visualizar Nota.|
 
 [imgCasoDeUso]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true>
-[Requisitos]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/Tema%2001%20-%20Faculdade.docx>
+[Requisitos]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/README.md>
