@@ -5,15 +5,25 @@ Os requisitos abaixo listados são para uma faculdade que precisa de uma aplica�
 
 ### Requisitos Funcionais
 **RF1** – O sistema deve permitir que os alunos visualizem as notas obtidas por semestre letivo.
+
 **RF2** – O Sistema efetuar o lançamento das notas das disciplinas lecionadas em um semestre letivo e controlar os prazos e atrasos neste lançamento.
+
 **RF3** – O Sistema deve manter informações cadastrais sobre disciplinas no currículo escolar.
+
 **RF4** – O Sistema deve permitir a abertura de turmas para uma disciplina, assim como a definição de salas e laboratórios a serem utilizados e dos horários e dias da semana em que haverá aulas de tal turma.
+
 **RF5** – O Sistema deve permitir que os alunos realizem a inscrição em disciplinas de um semestre letivo.
+
 **RF6** – O Sistema deve permitir o controle do andamento das inscrições em disciplinas feitas por alunos.
+
 **RF7** – O Sistema deve-se comunicar com o Sistema de Recursos Humanos para obter dados cadastrais sobre os professores.
+
 **RF8** – O Sistema deve-se comunicar com o Sistema de Faturamento para informar as inscrições realizadas pelos alunos.
+
 **RF9** – O sistema deve manter informações cadastrais sobre os alunos e seus históricos escolares, bem como das disciplinas no currículo escolar.
+
 **RF10** - O sistema deve estar disponível para os usuários, alunos, professores, etc. o acessarem, via internet, na rede local da faculdade.
+
 **RF11** – Professores possuem permissão para atualizar os dados (notas, frequências) das turmas atribuídas a ele por semestre.
 
 ### Rregras de Negócio
