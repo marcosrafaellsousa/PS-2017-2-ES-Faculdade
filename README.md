@@ -16,7 +16,7 @@ Os requisitos foram apresentados pelo professor Rubens, são passíveis de mudan
 Os requisitos estão disponíveis [aqui](https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/Tema%2001%20-%20Faculdade.docx).
 
 ### Casos de Uso
-Os casos de uso podem ser acessados clicando [aqui](https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/Tema%2001%20-%20Faculdade.docx).
+Os casos de uso podem ser acessados clicando [aqui](https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/Casos%20de%20Uso.md).
 
 #### Informes Bugs e Sugestões
 
