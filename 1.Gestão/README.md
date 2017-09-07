@@ -29,41 +29,50 @@ Os requisitos abaixo listados são para uma faculdade que precisa de uma aplica�
 ### Rregras de Negócio
 
 **RN01 – Quantidade máxima de inscrições por semestre letivo**
+
 *Descrição:*
 Em um semestre letivo, um aluno não pode se inscrever em uma quantidade de disciplinas cuja soma de créditos ultrapasse 20.
 
 **RN02 – Quantidade de alunos possíveis**
+
 *Descrição:*
 Uma oferta de disciplina não pode ter mais de 40 alunos inscritos.
 
 **RN03 - Pré-requisitos para uma disciplina**
+
 *Descrição:*
 Um aluno não pode se inscrever em uma disciplina para a qual não possua os pré-requisitos necessários.
 
 **RN04 – Habilitação para lecionar disciplina**
+
 *Descrição:*
 Um professor não pode lecionar disciplinas para as quais não esteja habilitado.
 
 **RN05 – Cancelamento de matrícula**
+
 *Descrição:*
 Um aluno deve ter a matrícula cancelada se for reprovado mais de duas vezes na mesma disciplina
 
 **RN06 – Política de Avaliação de Alunos**
+
 *Descrição:*
-    **1.** A nota de um aluno em uma disciplina (um valor de 0 a 10) é obtida pela média de duas avaliações durante o semestre, A1 e A2, ou pela frequência nas aulas. 
-        *1.1.* Se o aluno obtém nota maior ou igual a 7.0 (sete) está aprovado. 
-        *1.2.* Se o aluno obtém nota maior ou igual a 5.0 (cinco) e menor do que 7.0 (sete), deve fazer a avaliação final;
-        *1.3.* Se o aluno obtém nota menor do que 5.0 (cinco) está reprovado.
-        *1.4.* Se o aluno tiver frequência menor que 75% em uma turma, está automaticamente reprovado.
+    **1.** A nota de um aluno em uma disciplina (um valor de 0 a 10) é obtida pela média de duas avaliações durante o semestre, A1 e A2, ou pela frequência nas aulas. <br>
+        *1.1.* Se o aluno obtém nota maior ou igual a 7.0 (sete) está aprovado; <br>
+        *1.2.* Se o aluno obtém nota maior ou igual a 5.0 (cinco) e menor do que 7.0 (sete), deve fazer a avaliação final;<br>
+        *1.3.* Se o aluno obtém nota menor do que 5.0 (cinco) está reprovado; <br>
+        *1.4.* Se o aluno tiver frequência menor que 75% em uma turma, está automaticamente reprovado. <br>
 
 **RN07 – Consulta de Notas**
+
 *Descrição:*
 Um aluno não poderá visualizar os dados acadêmicos de outros alunos
 
 **RN08 – Perfis**
+
 *Descrição:*
 Aos usuários do sistema serão atribuídos perfis de acordo com suas permissões no sistema.
 
 **RN09 – Controle de Acesso**
+
 *Descrição:*
 O acesso é por meio de autenticação com senhas individuais.
