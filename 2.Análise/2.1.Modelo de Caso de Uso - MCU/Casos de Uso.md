@@ -9,9 +9,7 @@
 > - Sistema de Recrusos Humanos
 
 ### Modelo de Caso de Uso
-![Casos de Uso](https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true)
-
-### Descrição dos Casos de Uso
+![imgCasoDeUso]
 
 ### Descrição dos Casos de Uso
 | **Casos de Uso** | **Autores** |**Pré-condição** | **Descrição** | **Pós-condição** |
@@ -23,3 +21,5 @@
 |  |  |  | | |
 |  |  |  | | | 
 |  |  |  | | |
+
+[imgCasoDeUso]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true>
