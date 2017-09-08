@@ -29,11 +29,13 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 | UC08 | Atualizar Dados da turma | Professor |
 | UC09 | Abrir Turma | Coordenador |
 | UC10 | Alocar turma em sala ou laboratório em horário específico | Coordenador |
-| UC11 | Cancelar matrículas de aluno se ele for reprovado mais de duas vezes na mesma disciplina | Coordenador |
-| UC12 | Obter informações de inscrições de alunos | Sistema de Faturamento |
-| UC13 | Obter dados cadastrais sobre os professores | Sistema de RH |
-| UC14 | Controlar prazos e atrasos nos lançamentos de notas | Sistema de Faculdade |
-| UC15 | Atribuir perfis diferenciados a usuários de acordo com suas permissões | Sistema de Faculdade |
+| UC11 | Obter informações de inscrições de alunos | Sistema de Faturamento |
+| UC12 | Obter dados cadastrais sobre os professores | Sistema de RH |
+| UC13 | Controlar prazos e atrasos nos lançamentos de notas | Sistema de Faculdade |
+| UC14 | Atribuir perfis diferenciados a usuários de acordo com suas permissões | Sistema de Faculdade |
+| UC15 | Cancelar matrículas de aluno se ele for reprovado mais de duas vezes na mesma disciplina | Coordenador |
+| UC16 | Aprovar e reprovar alunos de acordo com notas e frequência | Coordenador |
+
 
 ### Descrição dos Casos de Uso
 
