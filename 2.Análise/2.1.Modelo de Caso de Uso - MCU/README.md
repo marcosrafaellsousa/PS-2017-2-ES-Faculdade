@@ -37,8 +37,8 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 
 ### Descrição dos Casos de Uso
 
-A descrição dos casos de uso podem ser baixadas aqui: [Descrição].
+A descrição dos casos de uso podem ser baixadas aqui: [Documento Completo].
 
 [imgCasoDeUso]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true>
 [Requisitos]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/README.md>
-[Descrição]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/raw/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/Descri%C3%A7%C3%A3o%20Casos%20de%20Uso.odt>
+[Documento Completo]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/raw/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/Descri%C3%A7%C3%A3o%20Casos%20de%20Uso.odt>
