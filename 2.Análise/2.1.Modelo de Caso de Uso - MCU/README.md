@@ -1,6 +1,5 @@
-# Descrição de Casos de Uso
+# CASOS DE USO
 
-### Razão do documento
 Esse documento tem como objetivo apresentar o diagrama de casos de uso do projeto e também descrevê-los a fim de
 esclarecer melhor como funcionará a interação entre o usuário e o sistema.
 
@@ -37,22 +36,9 @@ Os casos de uso foram feitos baseados nos requisitos que podem ser encontrados a
 | UC15 | Atribuir perfis diferenciados a usuários de acordo com suas permissões | Sistema de Faculdade |
 
 ### Descrição dos Casos de Uso
-| **Casos de Uso** | **Autores** |**Pré-condição** | **Descrição** | **Pós-condição** |
-|---|---|---|---|---|
-| *UC01* | Alunos | Professor precisa ter lançado as notas de antemão | Aluno entra no sistema, seleciona a disciplina desejada e clica em ver notas. | Banco de Dados Inalterado |
-| *UC02* | Alunos | As turmas tem que ser previamente cadastradas pelo Coordenador | Aluno entra no sistema e clica em matricular | Aluno estar matriculado na disciplina |
-| *UC03* | Professor | Professor tem que estar vinculado à turma | O professor deve entrar no sistema, visualizar as turmas das quais ele cuida e clicar em lançar notas | Notas lançadas estarem associadas aos respectivos alunos da disciplina |
-| *UC07* | Sistema de RH | Ter dados de professores cadastrados no sistema da faculdade | O sistema de RH deve solicitar ao Sistema da Faculdade a recuperação de uma busca na base de dados segundo uma consulta oferecida contendo o(s) identificador(es) do(s) professor(es). | Banco de dados inalterado. |
-|  |  |  | | |
-|  |  |  | | | 
-|  |  |  | | |
 
-| **UC01** | **Visualizar Notas**  |
-|---|---|
-| *Ator Principal* | Aluno |
-| *Pré-Condições* | O aluno estar logado no sistema e estar matriculado na disciplina a qual deseja ver sua nota. |
-| *Pós-Condições* | O sistema deve buscar no banco de dados as notas do aluno referente a disciplina marcada, sem, contudo, fazer qualquer alteração |
-| *Fluxo* | 1 - Aluno loga no sistema com sua identificação única <br> 2 - Selecionar a disciplina deejada <br> 3 - Clicar em Visualizar Nota.|
+A descrição dos casos de uso podem ser baixadas aqui: [Descrição].
 
 [imgCasoDeUso]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/casosDeUso.jpg?raw=true>
 [Requisitos]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/1.Gest%C3%A3o/README.md>
+[Descrição]: <https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/raw/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/Descri%C3%A7%C3%A3o%20Casos%20de%20Uso.odt>

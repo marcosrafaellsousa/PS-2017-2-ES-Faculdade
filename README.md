@@ -1,4 +1,4 @@
-# Sistema de Gestão de Faculdades - PS-2017-2-ES-Faculdade
+﻿# Sistema de Gestão de Faculdades - PS-2017-2-ES-Faculdade
 Projeto de Software - Atividade Supervisionada para a matéria **Projeto de Software** ministrada pelo professor *Rubens de Castro Pereira*.
 
 ### Integrantes da Equipe
@@ -18,7 +18,7 @@ Os requisitos estão disponíveis [aqui](https://github.com/artiumdominus/PS-201
 ### Casos de Uso
 Os casos de uso podem ser acessados clicando [aqui](https://github.com/artiumdominus/PS-2017-2-ES-Faculdade/blob/master/2.An%C3%A1lise/2.1.Modelo%20de%20Caso%20de%20Uso%20-%20MCU/Casos%20de%20Uso.md).
 
-#### Informes Bugs e Sugestões
+### Informes Bugs e Sugestões
 
 Esse projeto é **Open Source**, dessa forma qualquer um pode ajudar a melhorá-lo.
 
@@ -32,7 +32,7 @@ Mais detalhes de como contribuir e enviar Pull Requests em [GitHub Collaborating
 
 [Como colaborar com projetos opensource com GitHub](http://www.youtube.com/watch?v=H3olaBo83As)
 
-#### Copyright e Licença
+### Copyright e Licença
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License.](http://creativecommons.org/licenses/by/4.0/)
 
